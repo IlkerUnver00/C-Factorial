@@ -1,0 +1,5 @@
+C:\Users\vektorel\Desktop\06 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.Faktoriyel.App\bin\Debug\Vektorel.Faktoriyel.App.exe.config
+C:\Users\vektorel\Desktop\06 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.Faktoriyel.App\bin\Debug\Vektorel.Faktoriyel.App.exe
+C:\Users\vektorel\Desktop\06 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.Faktoriyel.App\bin\Debug\Vektorel.Faktoriyel.App.pdb
+C:\Users\vektorel\Desktop\06 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.Faktoriyel.App\obj\Debug\Vektorel.Faktoriyel.App.exe
+C:\Users\vektorel\Desktop\06 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.Faktoriyel.App\obj\Debug\Vektorel.Faktoriyel.App.pdb
